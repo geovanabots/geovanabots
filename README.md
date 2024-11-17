@@ -16,3 +16,4 @@ My goals here are cybersecurity and data science! Hope u have a good day!✨
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanabots&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![octocat-1731806914917](https://github.com/user-attachments/assets/30b00a0a-06f6-4d97-8acc-272aa84fea5d)
